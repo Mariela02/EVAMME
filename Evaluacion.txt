@@ -1,4 +1,7 @@
-Mariela Elizabeth
 Amanta Manobanda
+<<<<<<< HEAD
 Java
 MySQL Service
+=======
+Mariela Elizabeth
+>>>>>>> develop
